@@ -37,6 +37,7 @@ Keras==2.4.3
 kiwisolver==1.4.4
 markdown-it-py==2.2.0
 MarkupSafe==2.1.2
+matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
 matplotlib==3.7.1
 mdurl==0.1.2
 multidict==4.7.6
