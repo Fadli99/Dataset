@@ -84,4 +84,3 @@ urllib3==1.25.9
 validators==0.20.0
 watchdog==3.0.0
 yarl==1.4.2
-#zipp==3.15.0
